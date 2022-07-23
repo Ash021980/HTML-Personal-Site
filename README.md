@@ -1,2 +1,2 @@
 # HTML-Personal-Site
-Digital CV
+Digital CV/Resume done mainly in html
